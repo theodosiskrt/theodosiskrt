@@ -17,7 +17,6 @@ Most of my experience lies in **React** and **React Native**, where I’ve devel
 
 I focus on writing **clean, modular code** and building applications that are both **technically solid and user-centric**.
 
----
 
 ## 🌱 What I’m Currently Exploring
 
